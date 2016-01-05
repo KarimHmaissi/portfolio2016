@@ -1,0 +1,11 @@
+{
+  "name": "newest-portfolio",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1",
+    "normalize.css": "~3.0.3",
+    "waypoints": "~4.0.0",
+    "components-font-awesome": "~4.5.0"
+  }
+}
