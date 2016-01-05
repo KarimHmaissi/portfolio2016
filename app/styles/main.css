@@ -818,19 +818,16 @@ body .hero a.btn.btn-primary {
 
 
 .portfolio-item {
-<<<<<<< HEAD
-/*  padding-top: 20px;
-  padding-bottom: 20px;*/
-=======
+
   padding-top: 20px;
   padding-bottom: 20px;
->>>>>>> 95032b59c30fd502431264f0e4be60a75255faed
+
 
   opacity: 0.8;
 
   transition: opacity 0.35s ease, 
               background-color 0.35s ease;
-<<<<<<< HEAD
+
 }
 
 .portfolio-item.active {
@@ -843,8 +840,8 @@ body .hero a.btn.btn-primary {
 
 }
 
-=======
-}
+
+
 
 .portfolio-item.active {
   opacity: 1;
@@ -856,7 +853,7 @@ body .hero a.btn.btn-primary {
 
 }
 
->>>>>>> 95032b59c30fd502431264f0e4be60a75255faed
+
 
 
 .portfolio-image {
@@ -908,7 +905,7 @@ body .portfolio-item .portfolio-image{
    float: left;
    /*background-color: #29282c;*/
    padding: 7%;
-<<<<<<< HEAD
+
 
    padding-bottom: 6%;
    padding-top: 5%;
@@ -916,9 +913,8 @@ body .portfolio-item .portfolio-image{
 
 .portfolio-copy  {
   padding: 1% 0;
-=======
    padding-bottom: 8%;
->>>>>>> 95032b59c30fd502431264f0e4be60a75255faed
+
 }
 
 .portfolio-copy h3 {
