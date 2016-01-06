@@ -861,7 +861,7 @@ body .hero a.btn.btn-primary {
   width: 57%;
   float: left;
   padding: 3%;
-  padding-top: 2%;
+  padding-top: 0;
   padding-bottom: 5%;
   background-color: transparent;
 
@@ -907,13 +907,16 @@ body .portfolio-item .portfolio-image{
    padding: 7%;
 
 
-   padding-bottom: 6%;
-   padding-top: 5%;
+   padding-bottom: 0;
+   padding-top: 20px;
 }
 
 .portfolio-copy  {
-  padding: 1% 0;
-   padding-bottom: 8%;
+/*  padding: 1% 0;
+   padding-bottom: 8%;*/
+
+   margin-top: 40px;
+   margin-bottom: 40px;
 
 }
 
