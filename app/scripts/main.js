@@ -106,7 +106,7 @@
 		if(!isMobile()) {
 			$(".nav-menu > li").velocity("transition.slideDownIn", {stagger: 150, display: "inline-block"});
 		}
-		$(".fade-down-in").velocity("transition.slideDownIn", {stagger: 150, display: "block", delay: 0});
+		$(".fade-down-in").velocity("transition.slideDownIn", { display: "block", delay: 0});
 
 		$(".slide-up-in").velocity("transition.slideUpIn", {stagger: 150, display: "block", delay: 800, duration: 250});
 
